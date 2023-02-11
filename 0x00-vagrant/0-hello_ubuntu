@@ -1,0 +1,7 @@
+command "uname "
+
+this command print the type of operating system.
+
+like Linux
+     windows
+     macOS
